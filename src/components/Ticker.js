@@ -11,7 +11,7 @@ function Ticker() {
       clearInterval(id);
     };
   }, []);
-
+ 
   return (
     <div>
       <h1>TickerMaster</h1>
